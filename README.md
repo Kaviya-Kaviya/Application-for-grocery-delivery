@@ -8,11 +8,11 @@
      easy accessing
      
 ### Software requirements
-#Operating system
+### Operating system
      linux Or window XP/7/8/8.1
-#user interface
+### user interface
      HTML, CSS
-#client-side scripting
+### client-side scripting
      javascriptp0
-#programming language
+### programming language
      javascript
